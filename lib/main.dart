@@ -52,7 +52,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            const Text('Hey! Its Waffo Tene yves Kelian i suffered a lot'),
+            const Text('Hey Its Waffo Tene yves Kelian i suffered a lot'),
             const Text(
               'Second text',
             ),
