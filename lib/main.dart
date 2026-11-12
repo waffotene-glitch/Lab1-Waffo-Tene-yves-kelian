@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: const Color.fromARGB(255, 211, 28, 0)),
       ),
-      home: const MyHomePage(title: 'Yves App.'),
+      home: const MyHomePage(title: 'Waffo Tene Yves Kelian'),
     );
   }
 }
